@@ -10,11 +10,8 @@ Portfolio construction: For each factor, we build a daily long-short, sector-neu
 
 Deliverables:
 	1. Full performance suite per factor: cumulative returns, annualized Sharpe, max drawdown, turnover, hit rate, and factor returns by year.
-	
 	2. Decay study: rolling 3-year Sharpe of each factor over time. 
-	
 	3. Backtest that respects survivorship bias, look-ahead bias, transaction costs, and realistic rebalancing. 
-	
 	4. Clean, reproducible repo. 
 
 How to set up: TBD
