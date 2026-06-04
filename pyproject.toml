@@ -1,0 +1,20 @@
+[project]
+name = "factor-research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "est>=2.1.0",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "lxml>=6.1.1",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "pyarrow>=24.0.0",
+    "pyt>=1.4.0",
+    "requests>=2.34.2",
+    "ruff>=0.15.15",
+    "yfinance>=1.4.1",
+]
