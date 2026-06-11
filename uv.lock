@@ -688,6 +688,7 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "certifi" },
+    { name = "curl-cffi" },
     { name = "est" },
     { name = "html5lib" },
     { name = "ipykernel" },
@@ -711,6 +712,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "certifi", specifier = ">=2026.5.20" },
+    { name = "curl-cffi", specifier = ">=0.15.0" },
     { name = "est", specifier = ">=2.1.0" },
     { name = "html5lib", specifier = ">=1.1" },
     { name = "ipykernel", specifier = ">=7.2.0" },
