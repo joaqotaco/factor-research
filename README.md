@@ -1,3 +1,5 @@
+*****ON HIATUS******
+
 Project: Cross-Sectional Equity Factor Replication and Decay Study (US Large-Cap)
 
 Universe: S&P 500 constituents with historical point-in-time membership reconstructed from public sources.
@@ -13,8 +15,4 @@ Deliverables:
 	2. Decay study: rolling 3-year Sharpe of each factor over time. 
 	3. Backtest that respects survivorship bias, look-ahead bias, transaction costs, and realistic rebalancing. 
 	4. Clean, reproducible repo. 
-
-How to set up: TBD
-
-How to run: TBD
 
